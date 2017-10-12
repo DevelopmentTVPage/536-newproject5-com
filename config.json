@@ -1,0 +1,15 @@
+{
+    "title": "New Project 10",
+    "baseURL": "https:\/\/newproject5.com\/project5",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/project5",
+        "firstpartycookies": true,
+        "cookiedomain": "newproject5.com"
+    }
+}
